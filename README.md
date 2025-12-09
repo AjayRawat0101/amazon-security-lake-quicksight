@@ -1,3 +1,4 @@
+⚠️🚨⚠️ Security Insights on AWS is no longer available. We encourage customers to explore using Amazon Security Lake to centralize, normalize, and analyze their security data across AWS, on-premises, and third-party sources.⚠️🚨⚠️
 
 ## NOTE: This solution is pending updates for updated Security Lake tables.
 
